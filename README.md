@@ -5,8 +5,8 @@ This project analyzes COVID-19 data using SQL queries and Tableau visualizations
 COVID-19 data to be explored to find relationship like infection rates, death rates, vaccination progress, and more.
 
 ### SQL Queries
-- **Total Cases vs Total Deaths**,**Total Cases vs Population**, **Rolling Cases** & **Rolling Vaccinations**
-- **Countries with Highest Infection Rate**,**Countries with Highest Death Count**,**Countries with Highest Death Count for Total Population** & **Continents with Highest Death Count**
+- **Total Cases vs Total Deaths**, **Total Cases vs Population**, **Rolling Cases** & **Rolling Vaccinations**.
+- **Countries with Highest Infection Rate**, **Countries with Highest Death Count**, **Countries with Highest Death Count for Total Population** & **Continents with Highest Death Count**.
 - **Worldwide Data** (global COVID-19 data, including new cases, new deaths, and death percentages, using aggregation and grouping.)
 
 ### Functions Used
