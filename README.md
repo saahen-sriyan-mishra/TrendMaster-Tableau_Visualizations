@@ -1,5 +1,5 @@
 # SQL-Tableau-Projects
-
+Tools Used: SQL server management studio 19, Visual Studio Community 2022 (Integration Services)
 ## COVID-19 Data Exploration
 This project analyzes COVID-19 data using SQL queries and Tableau visualizations.
 COVID-19 data to be explored to find relationship like infection rates, death rates, vaccination progress, and more.
