@@ -38,10 +38,7 @@ Final Dataset: Provides a comprehensive view of sales data by categories, stores
 Visualizes Bike Sales data for insights into trends, patterns and relationships using Map, pie chart, bar graph, proportional area chart, KPIs along with filters for year, state, customer number using calculated field syntax. All alongwith SQL Documentaions for data checking and queries need for data visualization.
 
 ### Dashboard
-![2 1](https://github.com/saahen-sriyan-mishra/SQL-Tableau-Projects/assets/139043263/ffb88b44-1786-497f-b5ab-3d1a377fe5ca)
-![2 2](https://github.com/saahen-sriyan-mishra/SQL-Tableau-Projects/assets/139043263/466778ef-6de5-41e0-8240-f27de7cb3272)
-
-
+![2 1](https://github.com/saahen-sriyan-mishra/SQL-Tableau-Projects/assets/139043263/52157d30-b37a-4f51-af35-3ddf1aa2d8ba)
 
 ### Conclusion
 Gain insights into customer demographics, sales volumes, product performance, and revenue generation.
