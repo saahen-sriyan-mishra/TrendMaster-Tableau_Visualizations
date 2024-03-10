@@ -1,2 +1,0 @@
-Make a DataBase BikeStores
-Execute the SQL files Drop All Objects, Create Objects and Load Data in that order.
