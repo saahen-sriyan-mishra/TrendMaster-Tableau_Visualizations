@@ -1,8 +1,11 @@
 # SQL-Tableau-Projects
-### Tools Used
+### Tools Used:
 SQL server management studio 19, WPS Office, Tableau 2024.1
-### Functions Used
+### SQL Functions Used:
 Aggregation functions for total counts and arithmetic operations,  conversion functions, Cast functions,  grouping, ordering, sorting, filtering, Using CTE and Temp Tables, View for data storage etc.
+### Link to Tableau Public:
+https://public.tableau.com/app/profile/saahen.mishra/vizzes
+
 
 ## COVID-19 Data Exploration
 This project analyzes COVID-19 data using SQL queries and Tableau visualizations.
