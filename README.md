@@ -25,6 +25,26 @@ Visualizes COVID-19 data for insights into trends, patterns, Forcasts and relati
 ### Conclusion
 Gain insights into the spread of COVID-19, its impact, and vaccination efforts.
 
+
+## Sales Data Exploration
+This project delves into the exploration and analysis of sales data using SQL queries. The aim is to uncover insights into customer behavior, sales volumes, product performance, and revenue generation.
+
+### SQL Queries
+Customer Details,Sales Volume & Total Revenue Generated, Individual Product Unit and Revenue from Different Customers.
+Final Dataset: Provides a comprehensive view of sales data by categories, stores, and salespersons, including customer details, product information, and revenue generated.
+
+### Tableau Visualization
+Visualizes Bike Sales data for insights into trends, patterns and relationships using Map, pie chart, bar graph, proportional area chart, KPIs along with filters for year, state, customer number using calculated field syntax. All alongwith SQL Documentaions for data checking and queries need for data visualization.
+
+### Dashboard
+![2 1](https://github.com/saahen-sriyan-mishra/SQL-Tableau-Projects/assets/139043263/ffb88b44-1786-497f-b5ab-3d1a377fe5ca)
+![2 2](https://github.com/saahen-sriyan-mishra/SQL-Tableau-Projects/assets/139043263/466778ef-6de5-41e0-8240-f27de7cb3272)
+
+
+
+### Conclusion
+Gain insights into customer demographics, sales volumes, product performance, and revenue generation.
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## How to Use
 1. Tableau Desktop is to be Downloaded and Installed.
