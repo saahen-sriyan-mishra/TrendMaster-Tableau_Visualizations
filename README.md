@@ -5,6 +5,7 @@ SQL server management studio 19, WPS Office, Tableau 2024.1
 Aggregation functions for total counts and arithmetic operations,  conversion functions, Cast functions,  grouping, ordering, sorting, filtering, Using CTE and Temp Tables, View for data storage etc.
 ### Link to Tableau Public:
 https://public.tableau.com/app/profile/saahen.mishra/vizzes
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 ## COVID-19 Data Exploration
@@ -24,7 +25,7 @@ Visualizes COVID-19 data for insights into trends, patterns, Forcasts and relati
 
 ### Conclusion
 Gain insights into the spread of COVID-19, its impact, and vaccination efforts.
-
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Sales Data Exploration
 This project delves into the exploration and analysis of sales data using SQL queries. The aim is to uncover insights into customer behavior, sales volumes, product performance, and revenue generation.
