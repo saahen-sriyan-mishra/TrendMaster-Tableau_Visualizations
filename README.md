@@ -57,6 +57,7 @@ This project delves into the exploration and analysis of sales data using SQL qu
 Visualizes Bike Sales data for insights into patterns and relationships using pie chart, bar graph, proportional area chart, KPIs etc. All alongwith SQL Documentaions for data checking and queries need for data visualization.
 
 ### Dashboard
+![3 1](https://github.com/saahen-sriyan-mishra/SQL-Tableau-Projects/assets/139043263/bced5c0e-6cb0-40b7-a222-70d6bfd0e7c7)
 
 ### Conclusion
 Gain insights into customer demographics, sales quantity, product performance, rating and revenue.
