@@ -2,7 +2,7 @@
 ### Tools Used:
 SQL server management studio 19, WPS Office, Tableau 2024.1
 ### SQL Functions Used:
-Aggregation functions for total counts and arithmetic operations,  conversion functions, Cast functions,  grouping, ordering, sorting, filtering, Using CTE and Temp Tables, View for data storage etc.
+Arithmetic operations,  conversion functions, Cast functions,  grouping, ordering, sorting, filtering, Aggregation functions, Using CTE and Temp Tables, View for data storage etc.
 ### Link to Tableau Public:
 https://public.tableau.com/app/profile/saahen.mishra/vizzes
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -27,7 +27,7 @@ Visualizes COVID-19 data for insights into trends, patterns, Forcasts and relati
 Gain insights into the spread of COVID-19, its impact, and vaccination efforts.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## Sales Data Exploration
+## Bike Store Data Exploration
 This project delves into the exploration and analysis of sales data using SQL queries. The aim is to uncover insights into customer behavior, sales volumes, product performance, and revenue generation.
 
 ### SQL Queries
@@ -42,6 +42,21 @@ Visualizes Bike Sales data for insights into trends, patterns and relationships 
 
 ### Conclusion
 Gain insights into customer demographics, sales volumes, product performance, and revenue generation.
+
+
+## walmart Sales Data Exploration
+This project delves into the exploration and analysis of sales data using SQL queries. The aim is to uncover insights into customer behavior, sales volumes, product performance, rating revenue etc..
+
+### SQL Queries
+
+
+### Tableau Visualization
+Visualizes Bike Sales data for insights into patterns and relationships using pie chart, bar graph, proportional area chart, KPIs etc. All alongwith SQL Documentaions for data checking and queries need for data visualization.
+
+### Dashboard
+
+### Conclusion
+Gain insights into customer demographics, sales quantity, product performance, rating and revenue.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## How to Use
