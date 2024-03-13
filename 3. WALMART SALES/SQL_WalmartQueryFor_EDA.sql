@@ -106,7 +106,8 @@ SELECT
 FROM [WalmartDB]..[WalmartSalesData.csv];
 --Above query executed updates all 1000 rows of data value
 
---Execute the above before executing this
+--Execute the above before executing any other query below,
+
 --Showing Extra Features Of Time of the day, Day Name and Month Name in the table
 select * from #sales
 
@@ -325,7 +326,7 @@ WHERE aar.all_average_rating = mar.max_average_rating )
 -------------------- Sales -------------------------------------------
 ----------------------------------------------------------------------
 
--- Number of sales made in each time of the day per weekday 
+-- Number of sales made in each time of the day
 SELECT
 	time_of_day, day_name,
 	COUNT(*) AS total_sales
