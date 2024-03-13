@@ -48,7 +48,10 @@ Gain insights into customer demographics, sales volumes, product performance, an
 This project delves into the exploration and analysis of sales data using SQL queries. The aim is to uncover insights into customer behavior, sales volumes, product performance, rating revenue etc..
 
 ### SQL Queries
-
+Test Before Feature Engineering to add (Time of The Day, Day Name, Month Name), Feature Engineering for Adding tested Columns into a temp. table
+Product Analysis like Unique Product Lines, Most Common Payment Method, Most Popular Selling Product, Revenue by Month, Largest COGS by Month, Product Line with Largest Revenue, City with Largest Revenue, Product Line with Largest VAT.
+Customer analysis like Unique Customer Types, Unique Payment Methods, Most Common Customer Type, Customer Type with Highest Sales, Gender Distribution, Gender Distribution per Branch, Time of Day with Most Ratings, Day of Week with Best Average Ratings
+Sales Analysis like Sales by Time of Day, Customer Type with Highest Revenue, City with Largest Tax Percentage, Customer Type with Highest VAT.
 
 ### Tableau Visualization
 Visualizes Bike Sales data for insights into patterns and relationships using pie chart, bar graph, proportional area chart, KPIs etc. All alongwith SQL Documentaions for data checking and queries need for data visualization.
