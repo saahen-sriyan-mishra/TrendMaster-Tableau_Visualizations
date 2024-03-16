@@ -1,8 +1,6 @@
-# SQL-Tableau-Projects
+# Tableau-Projects
 ### Tools Used:
-SQL server management studio 19, WPS Office, Tableau 2024.1
-### SQL Functions Used:
-Arithmetic operations,  conversion functions, Cast functions,  grouping, ordering, sorting, filtering, Aggregation functions, Using CTE and Temp Tables, View for data storage etc.
+WPS Office, Tableau 2024.1
 ### Link to Tableau Public:
 https://public.tableau.com/app/profile/saahen.mishra/vizzes
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -12,13 +10,8 @@ https://public.tableau.com/app/profile/saahen.mishra/vizzes
 This project analyzes COVID-19 data using SQL queries and Tableau visualizations.
 COVID-19 data to be explored to find relationship like infection rates, death rates, vaccination progress, and more.
 
-### SQL Queries
-- **Total Cases vs Total Deaths**, **Total Cases vs Population**, **Rolling Cases** & **Rolling Vaccinations**.
-- **Countries with Highest Infection Rate**, **Countries with Highest Death Count**, **Countries with Highest Death Count for Total Population** & **Continents with Highest Death Count**.
-- **Worldwide Data** (global COVID-19 data, including new cases, new deaths, and death percentages, using aggregation and grouping.)
-
 ### Tableau Visualization
-Visualizes COVID-19 data for insights into trends, patterns, Forcasts and relationships. All alongwith SQL Documentaions for data checking and queries need for data visualization.
+Visualizes COVID-19 data for insights into trends, patterns, Forcasts and relationships.
 
 ### Dashboard
 ![1 1](https://github.com/saahen-sriyan-mishra/SQL-Tableau-Projects/assets/139043263/c742e82e-b52a-44dc-8299-ea2d869d0e3b)
@@ -30,31 +23,21 @@ Gain insights into the spread of COVID-19, its impact, and vaccination efforts.
 ## Bike Store Data Exploration
 This project delves into the exploration and analysis of sales data using SQL queries. The aim is to uncover insights into customer behavior, sales volumes, product performance, and revenue generation.
 
-### SQL Queries
-Customer Details,Sales Volume & Total Revenue Generated, Individual Product Unit and Revenue from Different Customers.
-Final Dataset: Provides a comprehensive view of sales data by categories, stores, and salespersons, including customer details, product information, and revenue generated.
-
 ### Tableau Visualization
-Visualizes Bike Sales data for insights into trends, patterns and relationships using Map, pie chart, bar graph, proportional area chart, KPIs along with filters for year, state, customer number using calculated field syntax. All alongwith SQL Documentaions for data checking and queries need for data visualization.
+Visualizes Bike Sales data for insights into trends, patterns and relationships using Map, pie chart, bar graph, proportional area chart, KPIs along with filters for year, state, customer number using calculated field syntax.
 
 ### Dashboard
 ![2 1](https://github.com/saahen-sriyan-mishra/SQL-Tableau-Projects/assets/139043263/52157d30-b37a-4f51-af35-3ddf1aa2d8ba)
 
 ### Conclusion
 Gain insights into customer demographics, sales volumes, product performance, and revenue generation.
-
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## walmart Sales Data Exploration
-This project delves into the exploration and analysis of sales data using SQL queries. The aim is to uncover insights into customer behavior, sales volumes, product performance, rating revenue etc..
-
-### SQL Queries
-- Test Before Feature Engineering to add (Time of The Day, Day Name, Month Name), Feature Engineering for Adding tested Columns into a temp. table
-- Product Analysis like Unique Product Lines, Most Common Payment Method, Most Popular Selling Product, Revenue by Month, Largest COGS by Month, Product Line with Largest Revenue, City with Largest Revenue, Product Line with Largest VAT.
-- Customer analysis like Unique Customer Types, Unique Payment Methods, Most Common Customer Type, Customer Type with Highest Sales, Gender Distribution, Gender Distribution per Branch, Time of Day with Most Ratings, Day of Week with Best Average Ratings
-- Sales Analysis like Sales by Time of Day, Customer Type with Highest Revenue, City with Largest Tax Percentage, Customer Type with Highest VAT.
+This project delves into the exploration and analysis of sales data using SQL queries. The aim is to uncover insights into customer behavior, sales volumes, product performance, rating revenue etc.
 
 ### Tableau Visualization
-Visualizes Bike Sales data for insights into patterns and relationships using pie chart, bar graph, proportional area chart, KPIs etc. All alongwith SQL Documentaions for data checking and queries need for data visualization.
+Visualizes Bike Sales data for insights into patterns and relationships using pie chart, bar graph, proportional area chart, KPIs etc.
 
 ### Dashboard
 ![3 1](https://github.com/saahen-sriyan-mishra/SQL-Tableau-Projects/assets/139043263/07875bb3-5ee7-4ece-a2d5-79173d5a5f72)
